@@ -1,0 +1,17 @@
+diff --git a/package.json b/package.json
+index dc3e772e381da91e14128f2ec660bd9f8d132f26..7206b43f95c92599057331baf2610d5e44e8efcc 100644
+--- a/package.json
++++ b/package.json
+@@ -72,12 +72,6 @@
+   "funding": "https://github.com/vitejs/vite?sponsor=1",
+   "//": "READ CONTRIBUTING.md to understand what to put under deps vs. devDeps!",
+   "dependencies": {
+-    "esbuild": "^0.25.0",
+-    "fdir": "^6.4.4",
+-    "picomatch": "^4.0.2",
+-    "postcss": "^8.5.3",
+-    "rollup": "^4.34.9",
+-    "tinyglobby": "^0.2.13"
+   },
+   "optionalDependencies": {
+     "fsevents": "~2.3.3"

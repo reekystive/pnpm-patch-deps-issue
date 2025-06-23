@@ -1,0 +1,8 @@
+{
+  "name": "pnpm-patch-deps-issue",
+  "packageManager": "pnpm@10.12.1",
+  "dependencies": {
+    "vite": "6.3.5"
+  },
+  "//_comment": "vite's all deps is removed in the patch but still exists in the lockfile and node_modules"
+}
